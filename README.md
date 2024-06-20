@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emnatriki
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning masters in information systems and web 
+- 🌱 I’m currently learning PhD in Business Intelligence 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emnatriki16@gmail.com
 
